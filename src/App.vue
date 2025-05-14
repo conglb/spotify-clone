@@ -67,7 +67,7 @@
             </span>
         </div>
 
-
+        <!--
         <div id="SideNav" class="h-[100%] p-6 w-[240px] fixed z-50 bg-black">
             <RouterLink to="/">
               <img width="125" src="/images/icons/spotify-logo.png">
@@ -94,7 +94,7 @@
                 <li class="font-semibold text-[13px] mt-3 text-gray-300 hover:text-white">My Playlist #3</li>
                 <li class="font-semibold text-[13px] mt-3 text-gray-300 hover:text-white">My Playlist #4</li>
             </ul>
-        </div>
+        </div>-->
     </div>
 
     <div
@@ -102,12 +102,12 @@
             fixed
             right-0
             top-0
-            w-[calc(100%-240px)]
+            w-[100%]
             overflow-auto
             h-full
             bg-gradient-to-b
             from-[#1C1C1C]
-            to-black
+            to-[#111111]
         "
     >
         <div class="mt-[70px]"></div>
